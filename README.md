@@ -20,6 +20,13 @@
 | Certified Kubernetes Administrator    | 2025.02      |
 | AWS Data Engineer Associate           | 2025.02      |
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연락주소📝 </h2>  
+    <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
+        khe9322@naver.com
+    </div> 
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Study Stacks </h2> <br> 
     <div style="margin: 10px 0;"> 
