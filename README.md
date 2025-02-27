@@ -3,13 +3,13 @@
 </p>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요🙌 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello 🙌 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         클라우드 엔지니어로 꿈을 키워가는 꿈나무입니다. 언제나 넘버1이 될 수 있도록 꾸준히 달려나가겠습니다.
     </div> 
 </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자격증 </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>  
 
 <!-- 마크다운 형식으로 테이블 작성 -->
 | *Certification*                       | *Date*       |
@@ -21,7 +21,7 @@
 | AWS Data Engineer Associate           | 2025.02      |
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Connect📝 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Email Address📝 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         khe9322@naver.com <br>
         khe93224@gmail.com
