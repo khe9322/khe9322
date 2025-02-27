@@ -21,12 +21,15 @@
 | AWS Data Engineer Associate           | 2025.02      |
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연락주소📝 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Connect📝 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
-        khe9322@naver.com
+        khe9322@naver.com <br>
+        khe93224@gmail.com
     </div> 
 </div>
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Study Stacks🛠️  </h2>  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
