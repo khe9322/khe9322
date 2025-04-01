@@ -3,13 +3,13 @@
 </p>
 
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 🙌 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello 🙌 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         클라우드 엔지니어로 꿈을 키워가는 꿈나무입니다. 혁신적이고 다재다능하게 기술을 다룰 수 있는 전문가로 성장하겠습니다.
     </div> 
 </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자격증 </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>  
 
 <!-- 마크다운 형식으로 테이블 작성 -->
 | *Certification*                       | *Date*       |
